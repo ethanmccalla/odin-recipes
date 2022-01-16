@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first html project that will allow me to demonstrate my newfound skills in html. This is the first step in my journey to becoming a junior web developer here in Toronto, one of the greatest cities in the world.
